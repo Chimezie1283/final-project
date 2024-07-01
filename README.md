@@ -1,10 +1,10 @@
-![estate-hub-home](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/a64cdbd4-7faa-4ae7-8f28-e60643387120)
+![Yareach Homes](https://final-project-alpha-orcin.vercel.app/)
 
 # Estate Hub 
 
-Estate Hub is a mern-stack real estate application. In this app users can create account, view the listings, filter or search the listings and add them to favorites if they like. Also they can create a listing and put their estate for sale or rent.
+Yareach Homes, is a mern-stack real estate application. In this application, users can create account, view property listings, filter or search the property listings and add them to favorites if they like. Also they can create a listing and put their estate for sale or rent.
 
-**Live demo: [https://estate-hub-ase.vercel.app/](https://estate-hub-ase.vercel.app/)**
+**Live demo: [Visite Website](https://final-project-alpha-orcin.vercel.app/)**
 
 ## :bulb: Features
 
@@ -33,9 +33,10 @@ Estate Hub is a mern-stack real estate application. In this app users can create
 - [Cloudinary](https://www.cloudinary.com/) - Image Storage
 
 ## :camera_flash: Screenshots
-![estate-hub-home](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/2f14a18e-489f-4064-a231-ddca59ce8b63)
-![estate-hub-search](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/314ae60b-d111-4d27-b088-db5d60f3e83c)
-![estate-hub-estate](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/0ca1cc43-9a72-48af-a77d-294a746e89b2)
+![Yareach-home-page](https://github.com/Chimezie1283/final-project/blob/main/Screenshots/Screenshot%20(124).png)
+![Create-account-page](https://github.com/Chimezie1283/final-project/blob/main/Screenshots/Screenshot%20(123).png)
+![Login-page](https://github.com/Chimezie1283/final-project/blob/main/Screenshots/Screenshot%20(122).png)
+![Search-page](https://github.com/Chimezie1283/final-project/blob/main/Screenshots/Screenshot%20(121).png)
 
 ## :triangular_flag_on_post: Getting Started
 
@@ -43,7 +44,7 @@ First of all you need to clone the repository and install the dependencies for s
 
 ```shell
 
-git clone https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App.git
+git clone https://github.com/Chimezie1283/final-project.git
 
 cd client
 
@@ -78,11 +79,12 @@ JWT_REFRESH_SECRET
 
 ```
 
-And run dev server for both
+And run the following commands
 
 ```shell
 
 npm run dev
+npm run start
 
 ```
 
