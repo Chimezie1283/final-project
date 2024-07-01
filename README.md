@@ -1,6 +1,4 @@
-![Yareach Homes](https://final-project-alpha-orcin.vercel.app/)
-
-# Estate Hub 
+# Yareach Real Estate Hub 
 
 Yareach Homes, is a mern-stack real estate application. In this application, users can create account, view property listings, filter or search the property listings and add them to favorites if they like. Also they can create a listing and put their estate for sale or rent.
 
